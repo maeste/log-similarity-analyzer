@@ -1,0 +1,10 @@
+2024-01-15 12:00:01 INFO [main] Application started successfully
+2024-01-15 12:00:02 INFO [db] Database connection established
+2024-01-15 12:00:03 INFO [auth] User authentication service initialized
+2024-01-15 12:00:05 DEBUG [cache] Cache warming completed
+2024-01-15 12:00:10 INFO [api] REST API server listening on port 8080
+2024-01-15 12:01:15 INFO [request] Processing user request ID: 98765
+2024-01-15 12:01:16 WARN [validation] Unusual payload size detected: 2.5MB
+2024-01-15 12:01:17 INFO [business] Business logic executed successfully
+2024-01-15 12:01:18 DEBUG [audit] User accessed sensitive endpoint /api/internal/config
+2024-01-15 12:02:30 INFO [health] Health check completed - all systems operational

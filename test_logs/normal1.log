@@ -1,0 +1,10 @@
+2024-01-15 10:00:01 INFO [main] Application started successfully
+2024-01-15 10:00:02 INFO [db] Database connection established
+2024-01-15 10:00:03 INFO [auth] User authentication service initialized
+2024-01-15 10:00:05 DEBUG [cache] Cache warming completed
+2024-01-15 10:00:10 INFO [api] REST API server listening on port 8080
+2024-01-15 10:01:15 INFO [request] Processing user request ID: 12345
+2024-01-15 10:01:16 DEBUG [validation] Input validation passed
+2024-01-15 10:01:17 INFO [business] Business logic executed successfully
+2024-01-15 10:01:18 INFO [response] Response sent to client
+2024-01-15 10:02:30 INFO [health] Health check completed - all systems operational

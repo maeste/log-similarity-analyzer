@@ -1,0 +1,10 @@
+2024-01-15 14:00:01 INFO [main] Application started successfully
+2024-01-15 14:00:02 INFO [db] Database connection established
+2024-01-15 14:00:03 WARN [security] Multiple failed login attempts detected from IP 192.168.1.100
+2024-01-15 14:00:04 WARN [security] User admin attempted login with invalid credentials
+2024-01-15 14:00:05 ERROR [security] Potential brute force attack detected
+2024-01-15 14:00:06 WARN [security] Account lockout triggered for user: admin
+2024-01-15 14:00:07 ERROR [network] Unusual network traffic pattern detected
+2024-01-15 14:00:08 WARN [access] Unauthorized access attempt to /admin/users endpoint
+2024-01-15 14:00:09 ERROR [security] SQL injection attempt blocked in user input
+2024-01-15 14:00:10 FATAL [security] Security breach detected - initiating lockdown protocol

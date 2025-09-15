@@ -54,7 +54,7 @@ embeddings.json
 Thumbs.db
 
 # Logs
-*.log
+#*.log
 
 # uv
 .python-version
